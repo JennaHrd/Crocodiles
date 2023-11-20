@@ -1,6 +1,25 @@
 # Crocodiles 1
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="author" content="Jenna Howard">
+    <title>Crocodiles 1</title>
+</head>
+
+<body>
+    
+<nav>
+        <ul>
+            <li><a href="#Luminous Motnings">Luminous Mornings</a></li>
+          <li><a href="#The Market Square">The Market Square</a></li>
+          <li><a href="#Stryjska Street">Stryjska Street</a></li>
+        </ul>
+    </nav>
 
 
+
+<h1>The Street of Crocodiles</h1>
 
 <blockquote>In July my father went to take the waters and left me, with my mother and elder brother, a prey to the blinding white heat of the summer days. Dizzy with light, we dipped into that enormous book of holidays, its pages blazing with sunshine and scented with the sweet melting pulp of golden pears.</blockquote>
 
@@ -21,6 +40,13 @@
     <p>And finally on the corner of Stryjska Street we passed within the shadow of the chemist's shop. A large jar of raspberry juice in the wide window symbolised the coolness of balms which can relieve all kinds of pain. After we passed a few more houses, the street ceased to maintain any pretence of urbanity, like a man returning to his little village who, piece by piece, strips off his Sunday best, slowly changing back into a peasant as he gets closer to his home.</p>
     <p>The suburban houses were sinking, windows and all, into the exuberant tangle of blossom in their little gardens. Overlooked by the light of day, weeds and wild flowers of all kinds luxuriated quietly, glad of the interval for dreams beyond the margin of time on the borders of an endless day. An enormous sunflower, lifted on a powerful stem and suffering from hypertrophy, clad in the yellow mourning of the last sorrowful days of its life, bent under the weight of its monstrous girth. But the naïve, suburban bluebells and unpretentious dimity flowers stood helpless in their starched pink and white shifts, indifferent to the sunflower's tragedy.</p>
 
-<ul>Markup and design: Xxxxxx Xxxxxx
-Images: Xxxxxxxx 
-This text is used under the terms of the Project Gutenberg License www.gutenberg.org.</ul>
+<ul>
+<li>Markup and design: Jenna Howard</li>
+<li>Images: Xxxxxxxx </li>
+<li>This text is used under the terms of the Project Gutenberg License www.gutenberg.org.</li>
+</ul>
+
+
+
+
+</body>
