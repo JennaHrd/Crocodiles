@@ -4,7 +4,6 @@ body
     color: #0E0E0E;
     font-family: 'Ubuntu', sans-serif;
     font-family: 'Lora', serif;
-    
 }
 
 article, header {
@@ -13,7 +12,7 @@ article, header {
     margin: auto;
 }
 
-img, {
+img {
     display: block;
     padding: 0;
     max-width: 100%;
@@ -25,19 +24,18 @@ h2 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 2.027rem;
     margin-bottom: 1.5rem;
-    margin-top: 3rem;
+    /*margin-top: 3rem; */
 }
 
 h1 {
     font-size: 3.027rem;
     color:#B0333A;
     font-family: 'Ubuntu', sans-serif;
-    margin-bottom: 5rem;
 }
 
-p, {
+p {
     line-height: 1.5;
-    margin-bottom: 2.5rem;
+    /*margin-bottom: 2.5rem;*/
     font-size: 16px;
     font-family: 'Lora', serif;
 }
@@ -53,7 +51,7 @@ blockquote {
 }
 
 cite {
-    font-size: ;
+    font-size: 16px;
 }
 
 header h2 {
@@ -69,11 +67,20 @@ a {
     text-decoration: none;
 }
 
+/*
 a {
     hover:
 }
+*/
 
-
+ul {
+    list-style: none;
+}
+  
+li {
+    display: inline-block;
+    margin-right: 10px; /* add spacing between items */
+}
 
 nav {
     top: 0;
@@ -86,17 +93,18 @@ nav {
 }
 
 nav ul{
-    text-align: right;
+    text-align: left;
 
 }
 
-
+/*
 av a:link {
     color: #0E0E0E;
 }
+*/
 
 nav ul li {
-    display: inline;
+    display: inline-block;
     margin: 15px;
 }
 
@@ -118,4 +126,5 @@ footer p {
     margin: 0 12rem;
     
 }
+
 
