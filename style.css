@@ -1,9 +1,8 @@
 body 
 {
-    background: #fff2f6;
+    background: #FDF2E4;
     color: #0E0E0E;
-    font-family: 'Ubuntu', sans-serif;
-    font-family: 'Lora', serif;
+    font-family: 'Alegreya', serif;
 }
 
 article, header {
@@ -20,22 +19,35 @@ img {
 
 
 h2 {
-    color: #E97FA3;
-    font-family: 'Ubuntu', sans-serif;
+    color: #000000;
+    font-family: 'Alegreya', serif;
     font-size: 2.027rem;
     margin-bottom: 1.5rem;
     /*margin-top: 3rem; */
+    margin-left: 200px;
 }
 
 h1 {
     font-size: 3.027rem;
-    color:#B0333A;
-    font-family: 'Ubuntu', sans-serif;
+    color:#000000;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F0921F;
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F0921F;
+    margin-left: 200px;
+    margin-top: 0px;
 }
 
 p {
     line-height: 1.5;
     /*margin-bottom: 2.5rem;*/
+    margin-left: 200px;
+    margin-right: 200px;
     font-size: 16px;
     font-family: 'Lora', serif;
 }
@@ -43,11 +55,13 @@ p {
 blockquote {
     line-height: 1.5;
     margin-bottom: 1.5rem;
+    margin-left: 220px;
+    margin-right: 220px;
     font-size: 16px;
     font-family: 'Lora', serif;
     hanging-punctuation: first;
     text-indent: -0.7;
-    color: #B0333A;
+    color: #AA3038;
 }
 
 cite {
@@ -87,7 +101,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background: #E97FA3;
+    background: #F0491F;
     padding: 2rem;
     font-size: 0.8rem;
 }
@@ -105,26 +119,29 @@ av a:link {
 
 nav ul li {
     display: inline-block;
-    margin: 15px;
+    margin: 10px;
 }
 
 nav a:hover {
     border-bottom: one;
     transition: all 0.3s ease-in-out;
+    color: #FDF2E4;
 }
 
 footer {
     background:#F0491F;
     text-align: centre;
     font-size: 0.8rem;
-    color:#FFFFFF;
+    color:#FDF2E4;
     padding: 4rem 0 3rem 0;
     margin-top: 4rem;
 }
 
 footer p {
     margin: 0 12rem;
+    background-color: #F0491F;
     
 }
+
 
 
