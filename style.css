@@ -138,6 +138,12 @@ footer {
     margin-top: 2rem;
 }
 
+footer a:hover {
+    transition: all 0.3s ease-in-out;
+    color: #FDF2E4;
+}
+
+
 footer p {
     margin: 0 12rem;
     background-color: #F0491F;
